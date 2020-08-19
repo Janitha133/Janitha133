@@ -1,3 +1,5 @@
+![Image of Cover](https://i.ibb.co/QdXtDFc/hacking-2903156-19cf20-2.jpg)
+
 ### Hi there 👋
 
 - 👦 I’m Janitha Rasanga. I like to Code and learn new technologies. 
