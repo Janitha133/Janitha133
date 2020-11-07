@@ -7,9 +7,8 @@
 - 📑 My favourit frameworks are **Angular** and **Ionic**
 - 📗 I’m currently learning **Python**.
 - ✍ I’m contributing on [stackoverflow](https://stackoverflow.com/users/9423643/janitha-rasanga)
-- 💬 Ask me about anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/janitha-rasanga133/) | [Facebook](https://web.facebook.com/janitha.rasanga.7)
-- 📷 My personal Image Gallery: [JR Designs](https://janitha133.github.io/jdgsl)
+- 📷 My personal Design Gallery: [JR Designs](https://janitha133.github.io/jdgsl)
 
 
 ### Tech Stack 👨‍💻
