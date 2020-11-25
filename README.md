@@ -1,4 +1,5 @@
 ![Image of Cover](https://i.ibb.co/f1N1Kng/hacking-2903156-19cf20s-2.jpg)
+![](https://komarev.com/ghpvc/?username=Janitha133)
 
 ### Hi there 👋
 
@@ -47,6 +48,3 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd)
   
-  ![](https://komarev.com/ghpvc/?username=Janitha133)
-
-
