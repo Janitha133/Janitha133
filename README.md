@@ -46,5 +46,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd)
+  
+  ![](https://komarev.com/ghpvc/?username=Janitha133)
 
 
