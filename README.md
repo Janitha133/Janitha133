@@ -6,7 +6,6 @@
 - 👦 I’m Janitha Rasanga. I like to Code and learn new technologies. 
 - 👨‍🎓 I’m an undergraduate student at University of Moratuwa Faculty of Information Technology
 - 📑 My favourit frameworks are **Angular** and **Ionic**
-- 📗 I’m currently learning **Python**.
 - ✍ I’m contributing on [stackoverflow](https://stackoverflow.com/users/9423643/janitha-rasanga)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/janitha-rasanga133/) | [Facebook](https://web.facebook.com/janitha.rasanga.7)
 - 📷 My personal Design Gallery: [JR Designs](https://janitha133.github.io/jdgsl)
