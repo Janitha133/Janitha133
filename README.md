@@ -1,4 +1,4 @@
-![Image of Cover](https://ibb.co/YZbw07W)
+![Image of Cover](https://i.ibb.co/QdXtDFc/hacking-2903156-19cf20-2.jpg)
 ![](https://komarev.com/ghpvc/?username=Janitha133)
 
 ### Hi there 👋
