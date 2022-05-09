@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 👦 I’m Janitha Rasanga. I like to Code and learn new technologies. 
+- 👦 I’m Janitha Rasanga. I like to code and learn new technologies. 
 - 👨‍🎓 I’m an undergraduate student at University of Moratuwa Faculty of Information Technology
 - 📑 My favourit frameworks are **Angular** and **Ionic**
 - ✍ I’m contributing on [stackoverflow](https://stackoverflow.com/users/9423643/janitha-rasanga)
