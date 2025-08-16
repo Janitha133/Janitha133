@@ -23,6 +23,7 @@
   ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic&logoColor=3880FF)
   ![.net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=.net&logoColor=5C2D91)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
